@@ -2,4 +2,4 @@ print("Hello world")
 
 print("Урааа, вроде получается")
 
-print("1wefwefwef2")
+print("1wefweffergwef2")
